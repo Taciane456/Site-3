@@ -6,7 +6,7 @@ padding: 0;
 .cabeçalho
 {
 background-color: #BDEDFF;
-color:aqua;
+color:rgb(92, 163, 204);
 display: flex;
 justify-content: space-around;
 align-items: center;
